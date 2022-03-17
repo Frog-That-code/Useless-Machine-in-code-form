@@ -1,2 +1,2 @@
 # Useless-Machine-in-code-form
-Its a useless machine but in code form. 
+This is my first contribution so its very useless. 
